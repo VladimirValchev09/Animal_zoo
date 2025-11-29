@@ -1,0 +1,4 @@
+
+public interface IMakeNoise {
+	public String MakeNoise();
+}
