@@ -1,0 +1,4 @@
+
+public interface IMakeTrick {
+	public String MakeTrick();
+}
